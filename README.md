@@ -13,9 +13,9 @@ It also includes sensitivity analysis using the **Greeks**: Delta, Gamma, Vega, 
 Option pricing is a critical component of quantitative finance. This project not only implements the models from scratch but also provides a deep dive into the underlying mathematics. It demonstrates my ability to combine theoretical knowledge with practical coding skills—important for roles in quant research, trading, and risk management.
 
 ## Features
-- ✅ Black-Scholes Formula for European Call/Put Options
-- ✅ Greeks Calculation from first principles
-- ✅ Monte Carlo Simulation of underlying asset paths
-- ✅ Comparison of pricing models against each other
-- ✅ Interactive visualizations and insights
-- ✅ Well-commented code & clean structure
+- Black-Scholes Formula for European Call/Put Options
+- Greeks Calculation from first principles
+- Monte Carlo Simulation of underlying asset paths
+- Comparison of pricing models against each other
+- Interactive visualizations and insights
+- Well-commented code & clean structure
